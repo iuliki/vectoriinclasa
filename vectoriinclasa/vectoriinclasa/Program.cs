@@ -7,6 +7,8 @@ namespace vectoriinclasa
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            int I;
+
         }
     }
 }
